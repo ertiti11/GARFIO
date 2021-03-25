@@ -1,0 +1,9 @@
+requests
+urllib3
+pyyaml
+colorama
+scrapy
+
+[tests]
+pytest
+flake8
